@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443850302 source:/home/mdv/proj/cb/lotto/lotto/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<errno.h>
+
